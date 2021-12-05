@@ -24,7 +24,7 @@ body {
 
 
 
-.about {
+.About {
     display: flex;
     text-align: center;
     padding: 50px;
@@ -35,7 +35,7 @@ nav h1 {
     text-align: center;
 }
 img{
-    border-radius: 100px;
+    border-radius: 150px;
     width: 200px;
     height: 200px;
     margin-left: auto;
@@ -44,5 +44,13 @@ img{
 
 }
 #contacts{
-    
+
+}
+
+.text {
+    font-size: 30px;
+}
+
+.project {
+    list-style-type: none;
 }
