@@ -1,11 +1,25 @@
-# engineering
-Engineering is a folder containing all of my files .
+# MY-PORTFOLIO
 
-## My portfolio
-Contacts,Skills and Name
+## Author
 
+Hosea Kipkemoi Kimutai
 
-### Project entails the following languages
-Javascript,CSS and Html
+### About
+This website shows my portfolio in a format.
+
+.skills
+
+.contacts
+
+.Names
+
+#### Technologies used
+
+.HTML
+
+.CSS
+
+.Boostrap
+
 
 
