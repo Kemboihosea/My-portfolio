@@ -6,24 +6,24 @@ It shows the technologies used in the project.
 
 Hosea Kipkemoi Kimutai
 
-### ABOUT
+## ABOUT
 This website shows my portfolio in a format.
 
-.skills
+1 skills
 
-.contacts
+2 contacts
 
-.Names
+3 Names
 
-#### TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
-.HTML
+1. HTML
 
-.CSS
+2. CSS
 
-.Boostrap
+3. Boostrap
 
-#### LICENSE
+## LICENSE
 
 [MIT LICENCE](https://opensource.org/licenses/mit-license.php)
 
