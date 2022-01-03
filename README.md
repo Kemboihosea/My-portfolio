@@ -1,10 +1,10 @@
 # MY-PORTFOLIO
 
-## Author
+## AUTHOR
 
 Hosea Kipkemoi Kimutai
 
-### About
+### ABOUT
 This website shows my portfolio in a format.
 
 .skills
@@ -13,7 +13,7 @@ This website shows my portfolio in a format.
 
 .Names
 
-#### Technologies used
+#### TECHNOLOGIES USED
 
 .HTML
 
