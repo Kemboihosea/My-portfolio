@@ -1,4 +1,6 @@
 # MY-PORTFOLIO
+This portfolio contains all my credentials and relavence skills .
+It shows the technologies used in the project.
 
 ## AUTHOR
 
