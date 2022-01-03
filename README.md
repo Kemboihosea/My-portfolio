@@ -21,5 +21,10 @@ This website shows my portfolio in a format.
 
 .Boostrap
 
+#### LICENSE
+
+MIT LICENCE
+
+
 
 
