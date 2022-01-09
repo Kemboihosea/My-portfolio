@@ -7,7 +7,7 @@ It shows the technologies used in the project.
 Hosea Kipkemoi Kimutai
 
 ## ABOUT
-This website shows my portfolio in a format.
+This website shows my portfolio in the following  format.
 
 1 skills
 
