@@ -1,12 +1,13 @@
 body {
-    background-color: cornsilk;
+    background-color:greenyellow;
+    
 }
 
 .nav{
     display: flex;
     list-style-type: none;
     font-family: italic;
-    background-color:burlywood 
+    background-color:chartreuse
     
 }
 
@@ -53,4 +54,5 @@ img{
 
 .project {
     list-style-type: none;
+    text-align: center;
 }
