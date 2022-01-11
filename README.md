@@ -17,7 +17,7 @@ This website shows my portfolio in the following  format.
 
 ## MY PAGE LINK
 
-https://kemboihosea.github.io/engineering/
+https://kemboihosea.github.io/My-portfolio/
 
 ## TECHNOLOGIES USED
 
