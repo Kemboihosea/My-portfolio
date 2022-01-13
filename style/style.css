@@ -1,5 +1,5 @@
 body {
-    background-color:brown;
+    background-color:violet;
     
 }
 
@@ -7,7 +7,7 @@ body {
     display: flex;
     list-style-type: none;
     font-family: italic;
-    background-color:coral
+    background-color:burlywood
     
 }
 
@@ -21,15 +21,64 @@ body {
 .nav h1 {
     font-size: 50px;
     text-align: center;
+
+
+}
+/* the description paragraph */
+.sectiontwo{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.description{
+    font-size: 50px;
+    padding-top: 150px;
+    padding-left: 65px;
+}
+.image img{
+    height: 85%;
+    /* About me */
+.aboutme{
+    background-color: #e4e4e4;
+    overflow: hidden;
+}
+.mybackground{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.introduction h2,h5{
+    text-align: center;
+    
+}
+.introduction h2{
+    font-size: 60px;
+    color: #0c4803;
+    font-family: "Oleo Script Swash Caps";
+    padding-top: 30px;
+
+}
+.introduction h5{
+    font-size: 40px;
+    color: #0c4803;
+}
+.about{
+    img align:text-align: margin-block: ;
 }
 
-
-
-.About {
-    display: flex;
+.education li, .experience li, .hobbies h3, .why h3{
+    color: #1EAB07;
+    font-weight: 700;
+    font-size: 20px;
+}
+.hobbies p{
+    /* font-size: 20px; */
+    line-height: 1.5rem;
+}
+.hobbies h3{
     text-align: center;
-    padding: 50px;
-    text-align: center;
+}
 }
 
 nav h1 {
@@ -49,11 +98,15 @@ img{
 }
 
 .text {
-    font-size: 30px;
+    font-size: 15px;
+    text-emphasis-color: white;
 
 }
 
 .project {
     list-style-type: none;
+    text-align: center;
+}
+.contacts{
     text-align: center;
 }
